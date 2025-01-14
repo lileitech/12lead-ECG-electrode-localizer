@@ -30,10 +30,10 @@ tree
 If you find this code useful in your research, please consider citing:
 ```
 @article{jounral/MedIA/li2025,
-  title={Towards Enabling Cardiac Digital Twins of Myocardial Infarction Using Deep Computational Models for Inverse Inference},
-  author={Li, Lei and Camps, Julia and Wang, Zhinuo and Banerjee, Abhirup and Rodriguez, Blanca and Grau, Vicente},
-  journal={IEEE Transactions on Medical Imaging},
-  year={2024}
+  title={Personalized Topology-Informed Localization of Standard 12-Lead ECG Electrode Placement from Incomplete Cardiac MRIs for Efficient Cardiac Digital Twins},
+  author={Li, Lei and Smith, Hannah and Lyu, Yilin and Qian, Shuang and Camps, Julia and Rodriguez, Blanca and Banerjee, Abhirup and Grau, Vicente},
+  journal={Medical Image Analysis},
+  year={2025}
 }
 
 ```
