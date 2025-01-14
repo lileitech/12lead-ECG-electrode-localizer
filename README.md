@@ -1,4 +1,4 @@
-# Topolgy-Informed-Electrode-Localizer
+# Topology Informed 12-Lead ECG Electrode Localizer
 
 Code for the localization of standard 12-lead ECG electrodes from cardiac MRIs. This is achieved via a topology-informed model, where the electrodes have been incorporated as a subset of the keypoints to explicitly aligned with the 3D torso topology.
 
